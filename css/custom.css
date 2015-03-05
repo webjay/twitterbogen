@@ -1,0 +1,94 @@
+
+body {
+	background-color: #A2E1E6;
+	/*background-image: url(http://static.twitter.com/images/bg.gif);*/
+	/*background-image: url(/img/twbg.png);
+	background-repeat: repeat-x;*/
+}
+
+a {
+	color: #0084b4;
+}
+
+h1 a, h2 a {
+	text-decoration: none;
+	color: #000;
+}
+
+address {
+	display: inline;
+	font-style: normal;
+	margin: 0;
+}
+
+.quiet a {
+	color:#666;
+}
+
+.container {
+	background-color: #fff;
+}
+
+#mirror {
+	background-color: #BAEDEF;
+	height: 60px;
+}
+
+#footer {
+	margin-top: 8px;
+	margin-bottom: 14px;
+}
+#footer img {
+	vertical-align: text-bottom;
+}
+
+#slideshow div {
+	width: 70px;
+	height: 70px;
+	overflow: hidden;
+}
+#slideshow .margintop {
+	margin-top: 10px;	
+}
+
+.thumbnail {
+	width: 70px;
+}
+
+.center {
+	text-align: center;
+}
+
+.strong {
+	font-weight: bold;
+}
+
+.large {
+	line-height: 1.8em;
+}
+
+#rightbar ul {
+	margin-left: 0;
+}
+#rightbar li {
+	list-style-type: square;
+}
+
+#links {
+	overflow: hidden;
+}
+
+#mentions li {
+	margin-bottom: 5px;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+#blogposts h2 {
+	margin-bottom: 5px;
+}
+#blogposts img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
